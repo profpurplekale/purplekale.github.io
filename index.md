@@ -1,9 +1,9 @@
 ---
-title: Making New Mexico History 
+title: Karen J. Leong
 layout: nav-profile
 date: 2024-12-02
 ---
-Making New Mexico History hosts projects that document and explore aspects of the history of what today is known as New Mexico. 
+Karen Leong teaches history at UNM. She is interested in many things. 
 
 # Portfolio Template for Xanthan
 
